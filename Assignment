@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+  <head> 
+  <title> The Table for Students in Code Queen 8</title> 
+  </head>
+    <body>
+<table border="1px"><caption>Students in Code Queen 8</caption>
+   <tr>
+<th>FirstName</th><Surname></Surname><th>company</th><th>Phone No</th><th>Hobby</th><th>Profession</th><th>tribe</th>
+   </tr>
+   <tr>
+    <td>Anne</td><td>Abeja</td><td>Total Energies</td><td>0753456211</td><td>Tennis and Badminton</td><td>Lawyer</td><td>Alur</td>
+   </tr>
+   <td>Betty</td><td>Bwogi</td><td>Bank of Uganda</td><td>0785645321</td><td>Golf and Yoga</td><td>Admnistrator</td><td>Muganda</td>
+   <tr>
+    <td>Hope</td><td>Daniel</td><td>Shell</td>0762444132</td><td>Squash and scrabble</td><td>Software Engineer</td><td>German</td>
+    <tr
+
+   </table>
+ </html>

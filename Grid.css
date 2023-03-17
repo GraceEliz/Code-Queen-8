@@ -1,0 +1,12 @@
+.container{
+    background-color:purple(115, 45,180);
+display: grid;
+grid-template-columns:auto auto auto;
+gap: 20px;
+grid-template-rows: 40px 60px 200px;
+justify-content start:space-around;
+}
+.container>div{
+    background-color: bisque;
+}
+.container
